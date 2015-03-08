@@ -1,11 +1,11 @@
-package TestApp1;
+package Home_Tasks;
 import java.util.Scanner;
 
 /**
  * Created by NewDivide on 01.03.2015.
  * Написать программу которая считывает 5-и значное число с
- клавиатуры и выводит цифы из которого оно состоит.
- Например : Считываеться исло 54698
+ клавиатуры и выводит цифры из которого оно состоит.
+ Например : Считываеться число 54698
  Выводиться:
  5
  4
@@ -13,7 +13,7 @@ import java.util.Scanner;
  9
  8
  */
-public class Task1 {
+public class Home_Task_1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -32,4 +32,3 @@ public class Task1 {
         System.out.println(b5);
     }
 }
-

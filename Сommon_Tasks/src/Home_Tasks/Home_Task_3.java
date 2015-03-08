@@ -1,4 +1,4 @@
-package TestApp1;
+package Home_Tasks;
 import java.util.Scanner;
 
 /**
@@ -7,7 +7,7 @@ import java.util.Scanner;
  длинну окружности, если ее радиус считывается с
  клавиатуры.
  */
-public class Task3 {
+public class Home_Task_3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Введіть радіус кола:");
